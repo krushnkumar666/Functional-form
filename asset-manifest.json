@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Functional-form/static/css/main.a963ddff.css",
+    "main.js": "/Functional-form/static/js/main.48ab7ec4.js",
+    "static/js/453.3604c321.chunk.js": "/Functional-form/static/js/453.3604c321.chunk.js",
+    "static/media/propic.png": "/Functional-form/static/media/propic.5faf09a7795d28bf5a2b.png",
+    "index.html": "/Functional-form/index.html",
+    "main.a963ddff.css.map": "/Functional-form/static/css/main.a963ddff.css.map",
+    "main.48ab7ec4.js.map": "/Functional-form/static/js/main.48ab7ec4.js.map",
+    "453.3604c321.chunk.js.map": "/Functional-form/static/js/453.3604c321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a963ddff.css",
+    "static/js/main.48ab7ec4.js"
+  ]
+}
